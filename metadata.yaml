@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '34382'
     url: http://www.gutenberg.org/2009/agents/34382
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30107#Principles-Of-Political-Economy--13-Abridged-with-Critical-Bibliographical-and-Explanatory-No_
 gutenberg_bookshelf: Banned Books from Anne Haight's list
 gutenberg_issued: '2009-09-27'
 gutenberg_type: Text
